@@ -915,6 +915,9 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
     .fac-mb{
       flex-flow: column;
     }
+    .news-div {
+      flex-flow: column;
+    }
   }
 
 .bg-1:before {
@@ -971,7 +974,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   .media-h figure {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 170px;
-    flex: 0 0 170px;
+    flex: 0 0 250px;
     position: relative;
     margin-bottom: 0;
     overflow: hidden; }
