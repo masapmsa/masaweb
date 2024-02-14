@@ -10,6 +10,7 @@
 
 
 body {
+  
   font-family: "Inter", sans-serif;
   line-height: 1.6;
   background-color: #ffffff;
@@ -765,7 +766,12 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
       font-size: 20px; } }
   .untree_co-section .heading strong {
     font-weight: 700; }
-
+#about{
+  overflow: hidden;
+}
+.news {
+  overflow: hidden;
+}
 .position-relative {
   position: relative; }
 
